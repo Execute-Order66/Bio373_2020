@@ -1,18 +1,15 @@
-## Bio373 Next Generation Sequencing for Evolutionary Functional Genomics
+## BIO373 Next Generation Sequencing for Evolutionary Functional Genomics
 
-Official site
-* https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2020/003/SM/50617653
-
-## 17, Sep., 1-2, Oct., 2020
+## 14 Sep. -07 Oct., 2020
 
 Masaomi Hatakeyama
-- https://gitlab.uzh.ch/masaomi.hatakeyama/bio373_2020
+- https://github.com/masaomi/Bio373_2020
 
 ## How to download/update this documents
 
 Download
 ```bash
-$ git clone https://gitlab.uzh.ch/masaomi.hatakeyama/bio373_2020
+$ git clone https://github.com/masaomi/Bio334_2020
 ```
 
 Updating
@@ -20,23 +17,30 @@ Updating
 $ git pull
 ```
 
-
 ## Table of Content (Plan)
 
-**17 Sep.** | &nbsp; 
+**17 Sep** | &nbsp; 
 -------|-------
-9.00- | **XXX** [xxx]()
-13.00- | **XXX** [xxx]()
+13.00- | **Basic NGS analyses (Lecture)** [Bio373_2020_NGS_Bioinformatics.ipynb](Bio373_2020_NGS_Bioinformatics.ipynb)
+14.00- | **Basic Informatics (Lecture)** [Bio373_2020_Linux.ipynb](Bio373_2020_Linux.ipynb)
+15.00- | **Practice** comming soon 
  &nbsp;| &nbsp;
-**1 Oct.** | &nbsp; 
-9.00- | **XXX** [xxx]()
-13.00- | **XXX** [xxx]()
+**1 Oct** | &nbsp; 
+9.00-17.00 | RNAseq practice (coming soon)
  &nbsp;| &nbsp;
-**Day3** | &nbsp; 
-9.00- | **XXX** [xxx]()
-13.00- | **XXX** [xxx]()
+**2 Oct** | &nbsp; 
+9.00-17.00 | RNAseq real analysis (coming soon)
 
-## Recommended websites
+## References
 
-TODO
+**Linux/Shell**  
+- Software Carpentry tutorial - [The Unix shell](http://swcarpentry.github.io/shell-novice)   
+- [Interactive course](http://www.learnshell.org/)  
+- [Cheatsheet](https://github.com/swcarpentry/boot-camps/blob/master/shell/shell_cheatsheet.md)  
+- [SIB e-learning: UNIX fundamentals](http://edu.isb-sib.ch/pluginfile.php/2878/mod_resource/content/3/couselab-html/content.html)  
+- [Explain shell commands](http://explainshell.com/)   
+- [Tips & Tricks for using the shell on Mac OS](http://furbo.org/2014/09/03/the-terminal/)  
+- [Safe Bash scripting](http://robertmuth.blogspot.ch/2012/08/better-bash-scripting-in-15-minutes.html)
+
+
 
