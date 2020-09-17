@@ -23,7 +23,7 @@ $ git pull
 -------|-------
 13.00- | **Basic NGS analyses (Lecture)** [Bio373_2020_NGS_Bioinformatics.ipynb](Bio373_2020_NGS_Bioinformatics.ipynb)
 14.00- | **Basic Informatics (Lecture)** [Bio373_2020_Linux.ipynb](Bio373_2020_Linux.ipynb)
-15.00- | **Practice** comming soon 
+15.00- | **Practice** [Bio373_2020_Command_Practice.md](https://gist.github.com/masaomi/38be7b693b63a51ed431b3f79be724b1#1-short-url)
  &nbsp;| &nbsp;
 **1 Oct** | &nbsp; 
 9.00-17.00 | RNAseq practice (coming soon)
