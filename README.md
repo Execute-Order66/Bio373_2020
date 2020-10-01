@@ -26,7 +26,8 @@ $ git pull
 15.00- | **Practice** [Bio373_2020_Command_Practice.md](https://gist.github.com/masaomi/38be7b693b63a51ed431b3f79be724b1#1-short-url)
  &nbsp;| &nbsp;
 **1 Oct** | &nbsp; 
-9.00-17.00 | RNAseq practice (coming soon)
+9.00- | **RNAseq analyses (Lecture)** [Bio373_2020_RNAseq_analysis1.ipynb](Bio373_2020_RNAseq_analysis1.ipynb)
+13.00- | **Practice** (coming soon)
  &nbsp;| &nbsp;
 **2 Oct** | &nbsp; 
 9.00-17.00 | RNAseq real analysis (coming soon)
